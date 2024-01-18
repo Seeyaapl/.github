@@ -12,12 +12,12 @@
 Our Staff team consists of 7 people for now, but we are ready to invite people that know what they are doing and are willing to help.</p>
 
 ## <p align="center">Current team:</p>
-<p align="center">wujekpsujek - CEO, Developer </p>
-<p align="center">ixxrllg - CEO, Developer </p>
-<p align="center">tvphd - CEO </p>
+<p align="center">WujekPsujek - CEO, Developer </p>
+<p align="center">43hz - CEO, Developer </p>
+<p align="center">TVPHD - CEO </p>
 <p align="center">Rynav - Developer </p>
-<p align="center">paciuv - Admin </p>
-<p align="center">veiqsy - Admin </p>
+<p align="center">Paciuv - Admin </p>
+<p align="center">VikiP - Admin </p>
 <p align="center">xklmr - Admin </p>
 
 ## <p align="center">Contact:</p>
