@@ -1,4 +1,4 @@
-<h3 align="center">Seeya.pl</h3>
+<h3 align="center">Seeyaa.pl</h3>
 <p align="center">New minecraft server experience</p>
 
 <p align="center">
@@ -9,16 +9,15 @@
 
 ## <p align="center">About us:</p>
 <p align="center">We are a team of determined, self taught developers ready to take on every challange. Creating our own plugins to make the server better than the rest!
-Our team consists of 8 people for now, but we are ready to invite people that know what they are doing and are willing to help.</p>
+Our Staff team consists of 7 people for now, but we are ready to invite people that know what they are doing and are willing to help.</p>
 
 ## <p align="center">Current team:</p>
-<p align="center">wujekpsujek - CEO </p>
+<p align="center">wujekpsujek - CEO, Developer </p>
 <p align="center">ixxrllg - CEO, Developer </p>
 <p align="center">paciuv - CEO </p>
-<p align="center">veiqsy - CEO </p>
-<p align="center">Kristopher Jóźwik - CEO </p>
 <p align="center">tvphd - CEO </p>
 <p align="center">Rynav - Developer </p>
+<p align="center">veiqsy - Admin </p>
 <p align="center">xklmr - Admin </p>
 
 ## <p align="center">Contact:</p>
