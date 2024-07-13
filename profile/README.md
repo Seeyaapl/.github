@@ -15,7 +15,7 @@ Our Staff team consists of 7 people for now, but we are ready to invite people t
 <p align="center">WujekPsujek - CEO, Developer </p>
 <p align="center">43hz - CEO, Developer </p>
 <p align="center">TVPHD - CEO, Manager </p>
-<p align="center">Rynav - Developer </p>
+<p align="center">Porudev - Developer </p>
 <p align="center">Paciuv - Admin </p>
 <p align="center">VikiP - Admin </p>
 <p align="center">xklmr - Admin </p>
