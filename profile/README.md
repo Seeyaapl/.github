@@ -4,7 +4,7 @@
 <p align="center">
   
  <img alt="Static Badge" src="https://img.shields.io/badge/Server_status-Closed-red?style=for-the-badge">
- <a href="https://discord.gg/6vDfb5CVKk" target="_blank"> <img alt="Discord" src="https://img.shields.io/discord/992355055158177832?style=for-the-badge"></a>
+ <a href="https://discord.gg/J3nNDg6b" target="_blank"> <img alt="Discord" src="https://img.shields.io/discord/992355055158177832?style=for-the-badge"></a>
 </a>
 
 ## <p align="center">About us:</p>
