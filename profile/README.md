@@ -9,7 +9,7 @@
 
 ## <p align="center">About us:</p>
 <p align="center">We are a team of determined, self taught developers ready to take on every challange. Creating our own plugins to make the server better than the rest!
-Our Staff team consists of 7 people for now, but we are ready to invite people that know what they are doing and are willing to help.</p>
+Our Staff team consists of 6 people for now, but we are ready to invite people that know what they are doing and are willing to help.</p>
 
 ## <p align="center">Current team:</p>
 <p align="center">WujekPsujek - CEO, Technician </p>
