@@ -4,7 +4,7 @@
 <p align="center">
   
  <img alt="Static Badge" src="https://img.shields.io/badge/Server_status-Closed-red?style=for-the-badge">
- <a href="https://discord.gg/J3nNDg6b" target="_blank"> <img alt="Discord" src="https://img.shields.io/discord/992355055158177832?style=for-the-badge"></a>
+ <a href="https://dc.seeyaa.pl" target="_blank"> <img alt="Discord" src="https://img.shields.io/discord/992355055158177832?style=for-the-badge"></a>
 </a>
 
 ## <p align="center">About us:</p>
@@ -20,4 +20,4 @@ Our Staff team consists of 6 people for now, but we are ready to invite people t
 <p align="center">xklmr - Admin </p>
 
 ## <p align="center">Contact:</p>
-<p align="center"> To talk to us please join our <a href="dc.seeyaa.pl">discord</a> ! </p>
+<p align="center"> To talk to us please join our <a href="https://dc.seeyaa.pl">discord</a> ! </p>
