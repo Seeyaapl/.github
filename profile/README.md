@@ -12,7 +12,7 @@
 Our Staff team consists of 6 people for now, but we are ready to invite people that know what they are doing and are willing to help.</p>
 
 ## <p align="center">Current team:</p>
-<p align="center">WujekPsujek - CEO, Technician </p>
+<p align="center">WujekPsujek - CEO, Developer </p>
 <p align="center">43hz - CEO, Developer </p>
 <p align="center">TVPHD - CEO, Manager </p>
 <p align="center">Pajvciu - Admin </p>
