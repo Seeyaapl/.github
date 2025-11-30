@@ -20,4 +20,4 @@ Our Staff team consists of 6 people for now, but we are ready to invite people t
 <p align="center">xklmr - Admin </p>
 
 ## <p align="center">Contact:</p>
-<p align="center"> To talk to us please join our <a href="discord.gg/6vDfb5CVKk">discord</a> ! </p>
+<p align="center"> To talk to us please join our <a href="dc.seeyaa.pl">discord</a> ! </p>
